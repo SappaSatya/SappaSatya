@@ -57,7 +57,7 @@ I'm a **Computer Science Engineer** with a strong passion for **Data Science, AI
 ## 📫 *Let's Connect!*
 📩 **Email**: [sappasatyaharsha@gmail.com](mailto:sappasatyaharsha@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/contactmanoharshasappa](https://www.linkedin.com/in/contactmanoharshasappa)  
-#🌐 **Portfolio**: [manoharshasappa.github.io/personal-portfolio](https://manoharshasappa.github.io/personal-portfolio/)  
+//🌐 **Portfolio**: [manoharshasappa.github.io/personal-portfolio](https://manoharshasappa.github.io/personal-portfolio/)  
 
 ---
 
